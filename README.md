@@ -8,7 +8,7 @@ Which means you can carry your memories to any MCP client. and it just works!
 
 ## Demo (Click on the iamge for video!)
 
-![https://models.supermemory.ai/Xnip2025-06-07_17-13-47.png](https://youtu.be/ST6BR3vT5Xw)
+![./public/og-image.png](https://youtu.be/ST6BR3vT5Xw)
 
 ## Getting Started
 
