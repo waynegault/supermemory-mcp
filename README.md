@@ -8,13 +8,14 @@ Which means you can carry your memories to any MCP client. and it just works!
 
 ## Demo (Click on the image for video!)
 
-![https://youtu.be/ST6BR3vT5Xw](./public/og-image.png)
+[![Demo Video](./public/og-image.png)](https://youtu.be/ST6BR3vT5Xw)
 
 ## Getting Started
 
 To get started, just visit https://mcp.supermemory.ai, and follow the instructions on the page.
 
-## Features 
+## Features
+
 - 🚀 Built on top of the [Supermemory API](https://supermemory.ai), extremely fast and scalable.
 - ✅ No login required
 - 😱 Completely free to use
@@ -23,4 +24,3 @@ To get started, just visit https://mcp.supermemory.ai, and follow the instructio
 ## Self-hosting
 
 To self host, get an API key at https://console.supermemory.ai, and then simply add it in the `.env` file with `SUPERMEMORY_API_KEY=`
-
