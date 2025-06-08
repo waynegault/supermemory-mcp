@@ -6,9 +6,9 @@
 
 Which means you can carry your memories to any MCP client. and it just works!
 
-## Demo
+## Demo (Click on the iamge for video!)
 
-![https://ph-files.imgix.net/262237a3-1ebd-48d6-829f-16285692cffc.png?auto=compress](https://youtu.be/ST6BR3vT5Xw)
+![https://models.supermemory.ai/Xnip2025-06-07_17-13-47.png](https://youtu.be/ST6BR3vT5Xw)
 
 ## Getting Started
 
