@@ -93,13 +93,6 @@ function createSuperMemory(userId: string, env: Env) {
                 containerTags: [userId],
             })
 
-
-            const { memories: memoryList } = await supermemory.memories.list({
-                containerTags: [userId],
-            })
-
-            console.log(memories)
-
             // if memories.length is more than 2000, reject with error.
             if (memories.length > 2000) {
                 return c.json<ToolResponseType>(
