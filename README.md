@@ -1,6 +1,16 @@
 # Supermemory MCP - Universal Memory across LLMs
 
+> [!WARNING] 
+> MCP v1 is being deprecated. Please get the latest version from [app.supermemory.ai](https://app.supermemory.ai)
+
 [![Universal Memory MCP - Your memories, in every LLM you use. | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=954861&theme=neutral&period=daily&t=1749339045428)](https://www.producthunt.com/products/supermemory?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-universal-memory-mcp)
+
+
+Click below for one click install with `.dxt`
+
+<a href="https://assets.supermemory.ai/mcp-dxt.dxt">
+  <img  width="280" alt="Install with Claude DXT" src="https://github.com/user-attachments/assets/9b0fa2a0-a954-41ee-ac9e-da6e63fc0881" />
+</a>
 
 Read a detailed blog about it - https://supermemory.ai/blog/the-ux-and-technicalities-of-awesome-mcps 
 
@@ -14,7 +24,7 @@ Which means you can carry your memories to any MCP client. and it just works!
 
 ## Getting Started
 
-To get started, just visit https://mcp.supermemory.ai, and follow the instructions on the page.
+To get started, just visit https://app.supermemory.ai, and follow the instructions on the page.
 
 ## Features
 
